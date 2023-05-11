@@ -1,4 +1,4 @@
 # сайт Место
 ## сайт отличается от предыдущго: ничем,в убдующем добавят JS.
 ## используемыне технологии: HTML5 CCS3.
-## ссылка на сайт на гитхаб https://polpotcamp.github.io/Russian__travel/
+## ссылка на сайт на гитхаб https://polpotcamp.github.io/MESTO/
