@@ -1,8 +1,18 @@
 .popup__item {
     border: 0;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
     width: 358px;
     margin-bottom: 30px;
+    padding: 0;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+    color: #545454;
+    padding-bottom: 13px;
+}
+
+.popup__item::-webkit-input-placeholder {
+    color: black;
 }
 
 .popup__item:nth-child(2) {
